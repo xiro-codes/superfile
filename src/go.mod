@@ -1,6 +1,6 @@
 module github.com/MHNightCat/superfile
 
-go 1.21.8
+go 1.21.7
 
 require (
 	github.com/atotto/clipboard v0.1.4
